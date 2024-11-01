@@ -1,0 +1,9 @@
+.woocommerce form .form-row.woocommerce-invalid input.input-text
+{
+	    border-color: #a00 !important;
+}
+
+.wc-credit-card-form-card-cvc
+{
+	-webkit-text-security: disc;
+}
